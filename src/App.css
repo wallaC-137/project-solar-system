@@ -1,3 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
+}
+
+h1 {
+  background: white;
+  height: 242.72px;
+  left: 461.8px;
+  position: absolute;
+  top: 41.94px;
+  transform: matrix(1, 0, 0.01, 1, 0, 0);
+  width: 425.69px;
 }
